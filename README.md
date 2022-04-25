@@ -9,3 +9,8 @@ Copy this code and paste it into your console.
 | ------- | ------------------ |
 | Hack  | ✅ |
 | Update in the next 24hrs | ✅ |
+| I will respond in the next 24hrs | ✅ |
+
+✅ = Working
+🟨 = Unknown
+🟥 = Not working
