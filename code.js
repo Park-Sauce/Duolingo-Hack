@@ -1,4 +1,4 @@
-ALWAYS CHECK READ.MD BEFORE USING HACKS
+ALWAYS CHECK README.MD BEFORE USING HACKS
 
 // ==UserScript==
 // @name         Duolingo-Cheat-Tool
