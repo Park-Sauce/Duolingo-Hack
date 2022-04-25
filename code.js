@@ -1,3 +1,5 @@
+ALWAYS CHECK READ.MD BEFORE USING HACKS
+
 // ==UserScript==
 // @name         Duolingo-Cheat-Tool
 // @namespace    http://tampermonkey.net/
