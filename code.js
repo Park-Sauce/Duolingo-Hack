@@ -1,4 +1,4 @@
-ALWAYS CHECK README.MD BEFORE USING HACKS
+ALWAYS CHECK README.MD BEFORE USING HACKS Thx -------- Park-Sauce
 
 // ==UserScript==
 // @name         Duolingo-Cheat-Tool
