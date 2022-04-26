@@ -1,5 +1,3 @@
-ALWAYS CHECK README.MD BEFORE USING HACKS Thx -------- Park-Sauce
-
 // ==UserScript==
 // @name         Duolingo-Cheat-Tool
 // @namespace    http://tampermonkey.net/
