@@ -8,7 +8,7 @@ Copy this code and paste it into your console.
 | Code |   Working        |
 | ------- | ------------------ |
 | Hack  | ✅ |
-| Update in the next 24hrs | ✅ |
+| Update in the next 24hrs | 🟥 |
 | I will respond in the next 24hrs | 🟨 |
 
 ✅ = Working
