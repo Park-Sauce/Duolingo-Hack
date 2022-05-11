@@ -285,4 +285,4 @@ function solveChallenge() {
 
 
 
-window.alert("Thanks for using this hack, please consider leaving a star and a follow, You can reach me at parkerpaulott@gmail.com or ottparker744@gmail.com, I will respond within the hour if I'm not avivlible then contact gsnipes1@gmail.com");
+window.alert("Thanks for using this hack, please consider leaving a star and a follow, You can reach me at parkerpaulott@gmail.com or ottparker744@gmail.com, I will respond within the hour if I'm not avivlible then put your issue in the issuses section");
