@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Duolingo-Cheat-Tool
+// @name         Duolingo-Best-Hack
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Auto answer Duolingo script!
-// @author       Tran Quy <tranphuquy19@gmail.com>
+// @author       Parker Ott <ottparker744@gmail.com>
 // @match        https://www.duolingo.com/skill*
 // @icon         https://www.google.com/s2/favicons?domain=duolingo.com
 // @grant        none
