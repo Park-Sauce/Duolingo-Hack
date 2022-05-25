@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Duolingo-Best-Hack
 // @namespace    http://tampermonkey.net/
-// @version      0.5
-// @description  Auto answer Duolingo script!
+// @version      0.7
+// @description  Auto answer Duolingo script that works
 // @author       Parker Ott <ottparker744@gmail.com>
 // @match        https://www.duolingo.com/skill*
 // @icon         https://www.google.com/s2/favicons?domain=duolingo.com
